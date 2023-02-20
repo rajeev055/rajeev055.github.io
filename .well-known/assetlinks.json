@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moca.kyc.app",
+    "sha256_cert_fingerprints":
+    ["D9:E4:56:D7:AA:3C:08:49:84:C2:9C:21:96:C7:A2:37:C1:56:87:71:93:0E:36:C1:19:30:52:E1:11:87:51:67"]
+  }
+}]
